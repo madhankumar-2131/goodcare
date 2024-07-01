@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goodcare/static/css/main.136c69ab.css",
+    "main.js": "/goodcare/static/js/main.f4a9685a.js",
+    "static/js/453.419a5d54.chunk.js": "/goodcare/static/js/453.419a5d54.chunk.js",
+    "static/media/error.jpg": "/goodcare/static/media/error.7007f94738147f15e78b.jpg",
+    "static/media/Orth.jpg": "/goodcare/static/media/Orth.bf745a22c5e8bd06526c.jpg",
+    "static/media/mail.jpg": "/goodcare/static/media/mail.259cf09b38e9ccb322c4.jpg",
+    "static/media/Urology.jpeg": "/goodcare/static/media/Urology.3937555f481401da32d1.jpeg",
+    "static/media/cart.jpg": "/goodcare/static/media/cart.76a24e0d379c738090f6.jpg",
+    "index.html": "/goodcare/index.html",
+    "main.136c69ab.css.map": "/goodcare/static/css/main.136c69ab.css.map",
+    "main.f4a9685a.js.map": "/goodcare/static/js/main.f4a9685a.js.map",
+    "453.419a5d54.chunk.js.map": "/goodcare/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.136c69ab.css",
+    "static/js/main.f4a9685a.js"
+  ]
+}
